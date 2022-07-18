@@ -7,4 +7,4 @@ phases:
       - cd android && ./gradlew assembleDebug
 artifacts:
   files:
-    - /android/app/build/outputs/apk/app-debug.apk
+    - android/app/build/outputs/apk/app-debug.apk
